@@ -147,53 +147,7 @@ body {
     }
 }
 
-.experience_section {
-    padding: 100px 0px;
 
-    .container {
-        .cs_row {
-            gap: 20px;
-            justify-content: space-between;
-        }
-
-        h2 {
-            margin-bottom: 20px;
-            font-size: 36px;
-            color: var.$gray;
-        }
-
-        .exp_box {
-            box-sizing: border-box;
-            padding: 25px;
-            border: 2px solid transparent;
-            transition: all 400ms ease;
-            width: 49%;
-
-            &:hover {
-                border-color: var.$gray;
-            }
-
-            h3 {
-                font-size: 32px;
-                font-weight: 500;
-                color: var.$black;
-            }
-
-            h4 {
-                font-size: 24px;
-                font-weight: 400;
-            }
-
-            ul {
-                font-size: 18px;
-                font-weight: 400;
-                color: var.$gray;
-                padding-left: 20px;
-                margin-top: 10px;
-            }
-        }
-    }
-}
 
 .skills_section {
     padding: 100px 0px;
@@ -226,45 +180,11 @@ body {
     }
 }
 
-.tes_section {
-    padding: 100px 0px;
-    background-color: var.$off_white;
 
-    .headings {
-        h2 {
-            font-size: 36px;
-            font-weight: 600;
-            color: var.$black;
-            margin-bottom: 20px;
-        }
-
-        p {
-            font-size: 18px;
-            font-weight: 400;
-            color: var.$black;
-        }
-    }
-
-    .inner_div {
-        .single_slide {
-            max-width: 60%;
-            margin: auto;
-            background: #fff;
-            padding: 20px;
-            box-sizing: border-box;
-            border-radius: 5px;
-        }
-        .carousel-control-prev-icon, .carousel-control-next-icon{
-            background-color: var.$black;
-            padding: 15px;
-            border-radius: 50px;
-            background-size: 70%;
-        }
-    }
-}
 .projets_section{
     padding: 100px 0px;
     .container{
+       
         .headings {
             h2 {
                 font-size: 36px;
@@ -331,7 +251,7 @@ body {
     text-align: center;
     padding: 50px 20px;
     box-sizing: border-box;
-    background-color: var.$gray;
+     background-color: var.$gray;
     p{
         font-size: 20px;
         font-weight: 400;

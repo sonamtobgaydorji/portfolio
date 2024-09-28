@@ -220,9 +220,9 @@ body {
 }
 
 .projets_section {
-  padding: 100px 0px;
-  background-color: #000000;
-}
+  padding:  0px;
+    background-color: #000000; 
+} 
 .projets_section .container .headings h2 {
   font-size: 36px;
   font-weight: 600;
